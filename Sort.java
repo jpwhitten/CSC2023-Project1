@@ -2,7 +2,7 @@
 /*** Purpose:                                      ***/
 /***                                               ***/
 /***     Initial Author: Jason Steggles 20/09/15   ***/
-/***     Extended by: Your Name    Date            ***/
+/***     Extended by: Joseph Whitten               ***/
 /*****************************************************/
 
 import java.io.*;
