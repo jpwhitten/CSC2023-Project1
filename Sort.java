@@ -1,5 +1,6 @@
 /*****************************************************/
-/*** Purpose:                                      ***/
+/*** Purpose: Comapre the comparisons needed for   ***/
+/***          different sorting algorithms         ***/
 /***                                               ***/
 /***     Initial Author: Jason Steggles 20/09/15   ***/
 /***     Extended by: Joseph Whitten               ***/
